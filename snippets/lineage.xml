@@ -176,6 +176,7 @@
     <project path="hardware/qcom/sdm845/vr" name="platform/hardware/qcom/sdm845/vr" groups="generic_fs,qcom,qcom_sdm845" remote="aosp" revision="refs/tags/android-13.0.0_r75" />
 
     <!-- Packages -->
+    <project path="packages/apps/Aperture" name="android_packages_apps_Aperture" remote="lineage" />
     <project path="packages/apps/LineageCustomizer" name="android_packages_apps_LineageCustomizer" remote="lineage" />
     <project path="packages/apps/Seedvault" name="android_packages_apps_Seedvault" remote="lineage" />
     <project path="packages/apps/SimpleDeviceConfig" name="android_packages_apps_SimpleDeviceConfig" remote="lineage" />
