@@ -6,8 +6,6 @@
 
     <remote name="lineage-gitlab"
         fetch="https://gitlab.com/LineageOS" />
-    <!-- Bionic -->
-    <project path="bionic" name="android_bionic" remote="lineage" />
 
 <!-- CodeLinaro additions -->
     <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" groups="qcom,qssi" remote="lineage" />
