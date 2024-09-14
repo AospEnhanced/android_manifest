@@ -37,6 +37,13 @@
   <project path="external/dtc" name="android_external_dtc" remote="aospenhanced" />
   <project path="external/gptfdisk" name="android_external_gptfdisk" remote="aospenhanced" />
 
+  <!-- Hardware repos -->
+  <project path="hardware/google/pixel" name="android_hardware_google_pixel" remote="aospenhanced" />
+  <project path="hardware/google/pixel-sepolicy" name="android_hardware_google_pixel-sepolicy" remote="aospenhanced" />
+  <project path="hardware/interfaces" name="android_hardware_interfaces" remote="aospenhanced" />
+  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="aospenhanced" />
+  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="aospenhanced" />
+
   <!-- Inline kernel build -->
   <project path="prebuilts/kernel-build-tools" name="kernel/prebuilts/build-tools" clone-depth="1" remote="aosp" revision="refs/tags/android-14.0.0_r0.17" />
 
