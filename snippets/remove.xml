@@ -115,6 +115,7 @@
   <remove-project name="platform/system/libfmq" />
 
   <!-- External -->
+  <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/libnl" />
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/tinycompress" />

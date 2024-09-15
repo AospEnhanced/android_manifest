@@ -30,6 +30,7 @@
   <project path="manifest" name="android_manifest" remote="aospenhanced" />
 
   <!-- External repos -->
+  <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="aospenhanced" />
   <project path="external/libnl" name="android_external_libnl" remote="aospenhanced" />
   <project path="external/zstd" name="android_external_zstd" remote="aospenhanced" />
   <project path="external/mksh" name="android_external_mksh" remote="aospenhanced" />
