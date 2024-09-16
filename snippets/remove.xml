@@ -68,7 +68,6 @@
   <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/frameworks/libs/modules-utils" />
   <remove-project name="platform/frameworks/native" />
-  <remove-project name="platform/frameworks/opt/telephony" />
 
   <!-- General -->
   <remove-project name="platform/bootable/recovery" />

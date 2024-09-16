@@ -124,9 +124,6 @@
     <project path="external/unrar" name="android_external_unrar" remote="lineage" />
     <project path="external/vim" name="android_external_vim" remote="lineage" />
 
-    <!-- Framework repos -->
-    <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="lineage" />
-
     <!-- Hardware -->
     <project path="hardware/lineage/compat" name="android_hardware_lineage_compat" remote="lineage" />
     <project path="hardware/lineage/interfaces" name="android_hardware_lineage_interfaces" remote="lineage" />
