@@ -37,6 +37,7 @@
   <project path="external/libcxx" name="android_external_libcxx" remote="aospenhanced" />
   <project path="external/dtc" name="android_external_dtc" remote="aospenhanced" />
   <project path="external/gptfdisk" name="android_external_gptfdisk" remote="aospenhanced" />
+  <project path="external/tinycompress" name="android_external_tinycompress" remote="aospenhanced" />
 
   <!-- Hardware repos -->
   <project path="hardware/google/pixel" name="android_hardware_google_pixel" remote="aospenhanced" />
