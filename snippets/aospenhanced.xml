@@ -12,6 +12,7 @@
   <project path="frameworks/native" name="android_frameworks_native" remote="aospenhanced" />
 
   <!-- General repos -->
+  <project path="bionic" name="android_bionic" remote="aospenhanced" />
   <project path="build/make" name="android_build" remote="aospenhanced">
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
